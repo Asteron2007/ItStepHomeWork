@@ -1,0 +1,4 @@
+﻿  LabWorks02.cpp
+  C:\Users\Book\source\repos\CAHomeWork2\LabWorks02\LabWorks02.cpp(403) : warning C4715: TMyStack::pop: значение возвращается не при всех путях выполнения
+  C:\Users\Book\source\repos\CAHomeWork2\LabWorks02\LabWorks02.cpp(412) : warning C4715: TMyStack::empty: значение возвращается не при всех путях выполнения
+  LabWorks02.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\LabWorks02.exe

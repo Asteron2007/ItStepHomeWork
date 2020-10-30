@@ -1,0 +1,6 @@
+C:\Users\Book\source\repos\CAHomeWork2\CSLab23-02-2020\obj\Debug\CSLab23-02-2020.csprojAssemblyReference.cache
+C:\Users\Book\source\repos\CAHomeWork2\CSLab23-02-2020\bin\Debug\`.exe.config
+C:\Users\Book\source\repos\CAHomeWork2\CSLab23-02-2020\bin\Debug\`.exe
+C:\Users\Book\source\repos\CAHomeWork2\CSLab23-02-2020\bin\Debug\`.pdb
+C:\Users\Book\source\repos\CAHomeWork2\CSLab23-02-2020\obj\Debug\`.exe
+C:\Users\Book\source\repos\CAHomeWork2\CSLab23-02-2020\obj\Debug\`.pdb

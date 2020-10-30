@@ -1,0 +1,4 @@
+﻿  HomeWork0010.cpp
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork0010\HomeWork0010.cpp(135): warning C4715: TMyFileManager::setDestination: значение возвращается не при всех путях выполнения
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork0010\HomeWork0010.cpp(100): warning C4715: TMyFileManager::setSource: значение возвращается не при всех путях выполнения
+  HomeWork0010.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\HomeWork0010.exe

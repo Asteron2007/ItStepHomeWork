@@ -1,0 +1,4 @@
+﻿  HomeWork12.cpp
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork12\HomeWork12.cpp(816,38): warning C4244:  =: преобразование "float" в "char", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork12\HomeWork12.cpp(816,38): warning C4244: C:\Users\Book\source\repos\CAHomeWork2\HomeWork12\HomeWork12.cpp(313) : warning C4715: MoveCell: значение возвращается не при всех путях выполнения
+  HomeWork12.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\HomeWork12.exe

@@ -1,0 +1,4 @@
+﻿  HomeWork0011.cpp
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork0011\HomeWork0011.cpp(55): warning C4715: TMyStack<char>::pop: значение возвращается не при всех путях выполнения
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork0011\HomeWork0011.cpp(55): warning C4715: TMyStack<double>::pop: значение возвращается не при всех путях выполнения
+  HomeWork0011.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\HomeWork0011.exe

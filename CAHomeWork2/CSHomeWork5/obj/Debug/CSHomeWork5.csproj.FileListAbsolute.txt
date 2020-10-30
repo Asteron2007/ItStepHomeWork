@@ -1,0 +1,6 @@
+C:\Users\Book\source\repos\CAHomeWork2\CSHomeWork5\obj\Debug\CSHomeWork5.csprojAssemblyReference.cache
+C:\Users\Book\source\repos\CAHomeWork2\CSHomeWork5\bin\Debug\CSHomeWork5.exe.config
+C:\Users\Book\source\repos\CAHomeWork2\CSHomeWork5\bin\Debug\CSHomeWork5.exe
+C:\Users\Book\source\repos\CAHomeWork2\CSHomeWork5\bin\Debug\CSHomeWork5.pdb
+C:\Users\Book\source\repos\CAHomeWork2\CSHomeWork5\obj\Debug\CSHomeWork5.exe
+C:\Users\Book\source\repos\CAHomeWork2\CSHomeWork5\obj\Debug\CSHomeWork5.pdb

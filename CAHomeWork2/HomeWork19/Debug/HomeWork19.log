@@ -1,0 +1,4 @@
+﻿  HomeWork19.cpp
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork19\HomeWork19.cpp(81,3): error C2059: синтаксическая ошибка: }
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork19\HomeWork19.cpp(84,8): error C2039: MyCar: не является членом "TMyCar"
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork19\HomeWork19.cpp(11): message : см. объявление "TMyCar"

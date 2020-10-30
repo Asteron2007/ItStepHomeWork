@@ -1,0 +1,4 @@
+﻿  cl: командная строка warning D9002: пропуск неизвестного параметра "/source-charset=cp1251"
+  cl: командная строка warning D9002: пропуск неизвестного параметра "/execution-charset=cp1251"
+  LabWorks.cpp
+  LabWorks.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\LabWorks.exe

@@ -1,0 +1,7 @@
+C:\Users\Book\source\repos\CAHomeWork2\Lab111020\bin\Debug\Lab111020.exe.config
+C:\Users\Book\source\repos\CAHomeWork2\Lab111020\bin\Debug\Lab111020.exe
+C:\Users\Book\source\repos\CAHomeWork2\Lab111020\bin\Debug\Lab111020.pdb
+C:\Users\Book\source\repos\CAHomeWork2\Lab111020\obj\Debug\Lab111020.csprojAssemblyReference.cache
+C:\Users\Book\source\repos\CAHomeWork2\Lab111020\obj\Debug\Lab111020.csproj.CoreCompileInputs.cache
+C:\Users\Book\source\repos\CAHomeWork2\Lab111020\obj\Debug\Lab111020.exe
+C:\Users\Book\source\repos\CAHomeWork2\Lab111020\obj\Debug\Lab111020.pdb

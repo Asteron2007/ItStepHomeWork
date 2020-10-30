@@ -1,0 +1,6 @@
+﻿  HomeWork11.cpp
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork11\HomeWork11.cpp(46,54): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork11\HomeWork11.cpp(54,53): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork11\HomeWork11.cpp(196,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork11\HomeWork11.cpp(399,7): warning C4101:  tmp: неиспользованная локальная переменная
+  HomeWork11.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\HomeWork11.exe

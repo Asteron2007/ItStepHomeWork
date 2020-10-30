@@ -1,0 +1,5 @@
+﻿  HomeWork10.cpp
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork10\HomeWork10.cpp(188,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork10\HomeWork10.cpp(363,20): warning C4305:  аргумент: усечение из "int" в "char"
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork10\HomeWork10.cpp(363,14): warning C4309:  аргумент: усечение константного значения
+  HomeWork10.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\HomeWork10.exe
