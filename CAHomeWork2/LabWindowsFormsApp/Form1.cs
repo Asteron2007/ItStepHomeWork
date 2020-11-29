@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace LabWindowsFormsApp
 {
@@ -40,6 +41,20 @@ namespace LabWindowsFormsApp
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog openFiledlg = new OpenFileDialog();
+            openFiledlg.Filter = "text files (*.txt)|*.txt|Bakup files (*.bak)|*.bak||";
+            //openFiledlg.Filter += "Back files (*.bak)|*.bak||";
+            if (openFiledlg.ShowDialog() == DialogResult.OK)
+            {
+                using (StreamReader reader = File.OpenText(openFiledlg.FileName))
+                {
+                    textBox2.Text = reader.ReadToEnd();
+                }
+            };
         }
     }
 }

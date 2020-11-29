@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CAHomeWork2", "CAHomeWork2\CAHomeWork2.vcxproj", "{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork09", "HomeWork09\HomeWork09.vcxproj", "{6E220FD1-4D54-46C8-8AC5-7B2B76DBC242}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeWork10", "HomeWork10\HomeWork10.vcxproj", "{7C31C17B-9FE5-4AE0-9C59-C43F15D38E08}"
@@ -109,16 +107,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Debug|x64.ActiveCfg = Debug|x64
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Debug|x64.Build.0 = Debug|x64
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Debug|x86.ActiveCfg = Debug|Win32
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Debug|x86.Build.0 = Debug|Win32
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Release|Any CPU.ActiveCfg = Release|Win32
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Release|x64.ActiveCfg = Release|x64
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Release|x64.Build.0 = Release|x64
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Release|x86.ActiveCfg = Release|Win32
-		{D2F51306-4C5F-483B-9D8B-F0A4D23BC691}.Release|x86.Build.0 = Release|Win32
 		{6E220FD1-4D54-46C8-8AC5-7B2B76DBC242}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{6E220FD1-4D54-46C8-8AC5-7B2B76DBC242}.Debug|x64.ActiveCfg = Debug|x64
 		{6E220FD1-4D54-46C8-8AC5-7B2B76DBC242}.Debug|x64.Build.0 = Debug|x64
