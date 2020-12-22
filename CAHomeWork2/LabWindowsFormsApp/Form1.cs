@@ -8,9 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Drawing.Drawing2D;
 
 namespace LabWindowsFormsApp
 {
+   
     public partial class Form1 : Form
     {
         public Form1()
@@ -56,5 +58,53 @@ namespace LabWindowsFormsApp
                 }
             };
         }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics g = e.Graphics;
+
+            Pen pen = new Pen(Brushes.Red, 5);
+            pen.DashStyle = System.Drawing.Drawing2D.DashStyle.Dash;
+
+            g.DrawEllipse(pen, 50, 50, 100, 250);
+            Rectangle rect = new Rectangle(100, 100, 150, 250);
+            //SolidBrush sbrush = new SolidBrush(Color.Blue);
+            LinearGradientBrush lgbrush = new LinearGradientBrush(
+                rect,
+                Color.FromArgb(255, 255, 0, 0),
+                Color.FromArgb(255, 0, 0, 255),
+                90,
+                true
+                );
+            HatchBrush hbbrush = new HatchBrush(HatchStyle.Cross, Color.Green, Color.Blue);
+            TextureBrush textureBrush = new TextureBrush(new Bitmap("C:\\Users\\Book\\Desktop\\html\\lesson06\\images\\ir_image.gif"));
+
+
+
+           // g.FillRectangle(sbrush, rect);
+            //g.FillRectangle(lgbrush, rect);
+            //g.FillRectangle(hbbrush, rect);
+
+            g.FillRectangle(textureBrush, rect);
+
+            Font f1 = new Font("Courier",24);
+            g.DrawString("Привет", f1, Brushes.Red, 300, 200);
+
+
+
+
+            Image im = new Bitmap("C:\\Users\\Book\\Desktop\\html\\lesson06\\images\\ir_image.gif");
+            g.DrawImage(im, 100, 200);//,400,60);
+
+
+            //g.Dispose();
+        }
     }
+
+    class DllInpoertExample
+    {
+        [System.Runtime.InteropServices.DllImport("gdi32.dll")]
+        public static extern int GetPolyFillMode();
+    }
+
 }

@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab111020", "Lab111020\Lab1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWindowsFormsApp", "LabWindowsFormsApp\LabWindowsFormsApp.csproj", "{864375F2-8AB6-4DAF-ABA4-0FDA41083D16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWWinFormsApp1", "HWWinFormsApp1\HWWinFormsApp1.csproj", "{32171516-7ECA-4ECE-921E-7EE0291011C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -601,6 +603,18 @@ Global
 		{864375F2-8AB6-4DAF-ABA4-0FDA41083D16}.Release|x64.Build.0 = Release|Any CPU
 		{864375F2-8AB6-4DAF-ABA4-0FDA41083D16}.Release|x86.ActiveCfg = Release|Any CPU
 		{864375F2-8AB6-4DAF-ABA4-0FDA41083D16}.Release|x86.Build.0 = Release|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Debug|x64.Build.0 = Debug|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Debug|x86.Build.0 = Debug|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Release|x64.ActiveCfg = Release|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Release|x64.Build.0 = Release|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Release|x86.ActiveCfg = Release|Any CPU
+		{32171516-7ECA-4ECE-921E-7EE0291011C2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
