@@ -1,0 +1,105 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+
+namespace HWWinFormsApp1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            openFileDialog1.Filter = "Text files(*.txt)|*.txt|All files(*.*)|*.*";
+        }
+        /*
+         Задание 1: 
+        Дан текстовый файл. В файле содержатся Unicode-символы. Найти длину самой длинной строки, самой короткой строки, среднюю длину строки. 
+        Задание 2: 
+        Дан текстовый файл. В файле содержатся Unicode-символы. Подсчитать количество слов, начинающихся с символов, которые задаёт пользователь.
+
+         */
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.FileName = textBox1.Text;
+            if (openFileDialog1.ShowDialog() == DialogResult.Cancel)
+                return;
+
+            textBox1.Text = openFileDialog1.FileName;
+        }
+
+        private void TasksCalculate()
+        {
+            int Max, Min, countLines, strLen, WordsCount;
+            Max = Min = countLines = strLen = WordsCount = 0;
+            double Mean = 0;
+            string[] splitedStrings;
+            StreamReader file = null;
+            try
+            {
+                file = new StreamReader(textBox1.Text, Encoding.Unicode);
+                while (!file.EndOfStream)
+                {
+                    string s = file.ReadLine();
+
+                    splitedStrings = s.Split(new Char[] { ' ', ',', '.', ':', '\t' }, StringSplitOptions.RemoveEmptyEntries);
+
+                    foreach (string str in splitedStrings)
+                    {
+                        if (str.IndexOf(textBox2.Text) == 0)
+                            WordsCount++;
+                    }
+                    splitedStrings = null;
+
+                    strLen = s.Length;
+                    if (Max < strLen)
+                        Max = strLen;
+                    if (Min > strLen)
+                        Min = strLen;
+                    Mean = (Mean + strLen) / 2;
+                    countLines++;
+
+                    
+                }
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("FileReadError");
+                //throw;
+            }
+            finally
+            {
+                if (file != null)
+                    file.Close();
+            }
+
+
+
+            label2.Text = "Max length of string: " + Max.ToString();
+            label3.Text = "Min length of string: " + Min.ToString();
+            label4.Text = "Mean length of string: " + Mean.ToString();
+
+            label6.Text = "Count of words having SubString:" + WordsCount.ToString(); 
+        }
+    
+        private void button3_Click(object sender, EventArgs e)
+        {
+            TasksCalculate();
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            if (textBox1.Text != "")
+                button3.Enabled = true;
+        }
+    }
+}

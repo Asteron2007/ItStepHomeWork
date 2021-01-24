@@ -1,0 +1,10 @@
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\bin\Debug\WindowsFormsAppDB.exe.config
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\bin\Debug\WindowsFormsAppDB.exe
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\bin\Debug\WindowsFormsAppDB.pdb
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\obj\Debug\WindowsFormsAppDB.csprojAssemblyReference.cache
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\obj\Debug\WindowsFormsAppDB.Form1.resources
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\obj\Debug\WindowsFormsAppDB.Properties.Resources.resources
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\obj\Debug\WindowsFormsAppDB.csproj.GenerateResource.cache
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\obj\Debug\WindowsFormsAppDB.csproj.CoreCompileInputs.cache
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\obj\Debug\WindowsFormsAppDB.exe
+C:\Users\Book\source\repos\CAHomeWork2\WindowsFormsAppDB\obj\Debug\WindowsFormsAppDB.pdb

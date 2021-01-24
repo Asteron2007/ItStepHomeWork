@@ -8,3 +8,4 @@ C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\bin\Debug\HWWinFormsApp1.e
 C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\bin\Debug\HWWinFormsApp1.pdb
 C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.exe
 C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.pdb
+C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form2.resources
