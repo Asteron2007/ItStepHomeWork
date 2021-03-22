@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -159,9 +160,9 @@ namespace WpfApp2
         
 
             if (((Button)sender).Content.ToString() == "=")
-            {
+            {               
+                ResultTextBox.Text = new DataTable().Compute(FormulaTextBox.Text, null).ToString();
                 FormulaTextBox.Text = "";
-                ResultTextBox.Text = "Result";
                 return;
             }
         }

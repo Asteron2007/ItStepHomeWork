@@ -1,7 +1,7 @@
 ﻿  HomeWork09.cpp
-C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(30,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(89,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(112,29): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(127,22): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(169,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(30,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(89,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(112,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(127,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Book\source\repos\CAHomeWork2\HomeWork09\HomeWork09.cpp(169,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   HomeWork09.vcxproj -> C:\Users\Book\source\repos\CAHomeWork2\Debug\HomeWork09.exe

@@ -1,0 +1,10 @@
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\bin\Debug\ADOWinFormsApp.exe.config
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\bin\Debug\ADOWinFormsApp.exe
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\bin\Debug\ADOWinFormsApp.pdb
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\obj\Debug\ADOWinFormsApp.csprojAssemblyReference.cache
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\obj\Debug\ADOWinFormsApp.Form1.resources
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\obj\Debug\ADOWinFormsApp.Properties.Resources.resources
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\obj\Debug\ADOWinFormsApp.csproj.GenerateResource.cache
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\obj\Debug\ADOWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\obj\Debug\ADOWinFormsApp.exe
+C:\Users\Book\source\repos\CAHomeWork2\ADOWinFormsApp\obj\Debug\ADOWinFormsApp.pdb
