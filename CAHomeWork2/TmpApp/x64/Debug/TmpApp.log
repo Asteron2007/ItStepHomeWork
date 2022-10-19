@@ -1,0 +1,9 @@
+﻿  TmpApp.cpp
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\TmpApp\TmpApp.cpp(133,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\TmpApp\TmpApp.cpp(166,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\TmpApp\TmpApp.cpp(184,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\TmpApp\TmpApp.cpp(202,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\TmpApp\TmpApp.cpp(227,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\TmpApp\TmpApp.cpp(253,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\TmpApp\TmpApp.cpp(321): warning C4715: 'set_var': not all control paths return a value
+  TmpApp.vcxproj -> C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\x64\Debug\TmpApp.exe

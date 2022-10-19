@@ -11,3 +11,16 @@ C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.p
 C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form2.resources
 C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form3.resources
 C:\Users\Book\source\repos\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form4.resources
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\bin\Debug\HWWinFormsApp1.exe.config
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\bin\Debug\HWWinFormsApp1.exe
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\bin\Debug\HWWinFormsApp1.pdb
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form1.resources
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form2.resources
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form3.resources
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Form4.resources
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.exe
+C:\Users\User\Documents\GitHub\ItStepHomeWork\CAHomeWork2\HWWinFormsApp1\obj\Debug\HWWinFormsApp1.pdb

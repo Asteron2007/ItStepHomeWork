@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfAppCrossesZeros.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppCrossesZeros"
+        mc:Ignorable="d"
+        Title="Crosses &amp; Zeros" Height="450" Width="800"  ResizeMode="CanResize">
+    <Grid x:Name="FormGrid" ShowGridLines="True">
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+        <Button x:Name="btn0_0" Content="" TabIndex="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="btn0_0_Click" UseLayoutRounding="True"/>
+        <Button x:Name="btn0_1" Content="" TabIndex="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="btn0_1_Click"/>
+        <Button x:Name="btn0_2" Content="" TabIndex="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="2" Click="btn0_2_Click"/>
+        <Button x:Name="btn1_0" Content="" TabIndex="3" Grid.Row="1" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  Click="btn1_0_Click"/>
+        <Button x:Name="btn1_1" Content="" TabIndex="4" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="1" VerticalAlignment="Stretch" Click="btn1_1_Click"/>
+        <Button x:Name="btn1_2" Content="" TabIndex="5" Grid.Column="2" HorizontalAlignment="Stretch" Grid.Row="1" VerticalAlignment="Stretch" Click="btn1_2_Click"/>
+        <Button x:Name="btn2_0" Content="" TabIndex="6" HorizontalAlignment="Stretch" Grid.Row="2" VerticalAlignment="Stretch" Click="btn2_0_Click"/>
+        <Button x:Name="btn2_1" Content="" TabIndex="7" Grid.Column="1" HorizontalAlignment="Stretch" Grid.Row="2" VerticalAlignment="Stretch" Click="btn2_1_Click"/>
+        <Button x:Name="btn2_2" Content="" TabIndex="8" Grid.Column="2" HorizontalAlignment="Stretch" Grid.Row="2" VerticalAlignment="Stretch" Click="btn2_2_Click"/>
+       
+        <Label x:Name="lblPlayer" Content="Label" Grid.Column="1" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="3" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="StartGameBtn" Content="Start game" HorizontalAlignment="Stretch" Grid.Row="3" VerticalAlignment="Stretch" BorderBrush="#FF2044BD" Background="#FF45C73E" FontStyle="Normal" FontWeight="SemiBold" Click="Button_Click"/>
+        <Label x:Name="lblCrossWin" Content="Cross win: " Grid.Column="2" HorizontalAlignment="Left" Margin="0,0,0,0" Grid.Row="3" VerticalAlignment="Top"/>
+        <Label x:Name="lblZeroWin" Content="Zero win: " Grid.Column="2" HorizontalAlignment="Left" Margin="0,15,0,0" Grid.Row="3" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>
